@@ -12,7 +12,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/mayank-goyal09/healthrisk-decision-tree?style=social)](https://github.com/mayank-goyal09/healthrisk-decision-tree/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/mayank-goyal09/healthrisk-decision-tree?style=social)](https://github.com/mayank-goyal09/healthrisk-decision-tree/network)
 
-![Healthcare Banner](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+![Healthcare Banner](https://media1.tenor.com/m/7Qa1fbu3LR4AAAAd/wellness-check-mental-health-check.gif
+)
 
 ### ❤️ **Predict cardiovascular disease risk like a cardiologist** using **Decision Tree ML + Clinical Data** 🩺
 
